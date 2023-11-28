@@ -16,4 +16,15 @@ delivery charge (0.5 AED for each kilometer). The checkout should display the
 invoice including all previously selected items, their quantities, their total prices, 
 delivery costs, VAT (%5) and the total amount. 
 
+The user must respond by typing the integer (1, 2, 3...) for the desired menu 
+item. Any invalid entry must be detected and an error message must be 
+displayed requesting a valid value. 
+The program reads the user's response and then executes a selection 
+statement. Each branch of this selection statement will be a function call. 
+Also include a loop that allows the user to repeat the conversion for new 
+input values until he tells the program to make the checkout. 
+After checkout, the program must be ended. 
+If the user requests an invalid option, the program displays an error message 
+and generates the same menu again. 
+
 To contact personal social: Twitter: @AliAldahmani
